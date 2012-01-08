@@ -1,12 +1,12 @@
 [Background]
 Bold=false
 Color=31,31,31
-Transparency=true
+Transparency=false
 
 [BackgroundIntense]
 Bold=false
 Color=31,31,31
-Transparency=true
+Transparency=false
 
 [Color0]
 Bold=false
@@ -50,7 +50,7 @@ Transparency=false
 
 [Color4]
 Bold=false
-Color=80,96,112
+Color=92,124,160
 Transparency=false
 
 [Color4Intense]
